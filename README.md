@@ -7,7 +7,7 @@ I’m a theoretical astrophysicist and mathematician formerly at the University 
 workflows.
 
 ![Static Badge](https://img.shields.io/badge/ORCID-0009--0005--9389--9098-green?link=https%3A%2F%2Forcid.org%2F0009-0005-9389-9098)
-![Static Badge](https://img.shields.io/badge/Contact%20Me-eliza.diggins%40utah.edu-crimson?style=flat)
+![Static Badge](https://img.shields.io/badge/Contact%20Me-eliza.diggins%40berkeley.edu-crimson?style=flat)
 ![YouTube Video Views](https://img.shields.io/youtube/views/mm3I4m8YsnM)
 ![profile-hits](https://komarev.com/ghpvc/?username=eliza-diggins)
 
