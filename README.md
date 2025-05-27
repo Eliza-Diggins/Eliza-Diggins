@@ -1,8 +1,9 @@
-![sdfadf](grouplogo.png)
-![sdfadf](Uhealth.jpg)
+![U of U group Logo](grouplogo.png)
+![Berkeley Logo](berkeley_logo)
 # About Me
 
-I’m a theoretical astrophysicist and mathematician at the University of Utah. My research is shared between the Department of Physics and Astronomy, where I study galaxy cluster dynamics and gravitational theory; and the School of Dentistry, where I work on mathematical models of trade-mediated pathogens in complex global trade networks.
+I’m a theoretical astrophysicist and mathematician formerly at the University of Utah, now doing my PhD at UC Berkeley. My research is broadly focused on computational astrophysics; particularly galactic dynamics, simulation, and cosmological inference. This page contains a number of public projects which can be used for various scientific
+workflows.
 
 ![Static Badge](https://img.shields.io/badge/ORCID-0009--0005--9389--9098-green?link=https%3A%2F%2Forcid.org%2F0009-0005-9389-9098)
 ![Static Badge](https://img.shields.io/badge/Contact%20Me-eliza.diggins%40utah.edu-crimson?style=flat)
