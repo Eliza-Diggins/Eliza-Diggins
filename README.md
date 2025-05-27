@@ -1,5 +1,5 @@
 ![U of U group Logo](grouplogo.png)
-![Berkeley Logo](berkeley_logo)
+![Berkeley Logo](berkeley_logo.jpg)
 # About Me
 
 I’m a theoretical astrophysicist and mathematician formerly at the University of Utah, now doing my PhD at UC Berkeley. My research is broadly focused on computational astrophysics; particularly galactic dynamics, simulation, and cosmological inference. This page contains a number of public projects which can be used for various scientific
